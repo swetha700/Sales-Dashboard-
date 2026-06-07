@@ -9,3 +9,4 @@ The model is analyst from power BI method.
 Every details should analyst with power BI
 
 Edited locally.
+Project is about overall sales.
