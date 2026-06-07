@@ -1,0 +1,3 @@
+Power BI
+Microsoft excel
+power Query
